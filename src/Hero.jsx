@@ -11,7 +11,7 @@ const Hero = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore
             ipsa quam molestiae neque, quas exercitationem, autem incidunt,
             perspiciatis vitae nemo id quisquam similique magni error mollitia!
-            Vel, facere. Nam, ullam.
+            Vel, facere. Nam, ullam heasrrrrdd.
           </p>
         </div>
         <div className="img container">

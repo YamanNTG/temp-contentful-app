@@ -61,6 +61,8 @@ const client = createClient({
   accessToken: import.meta.env.VITE_API_KEY,
 });
 
+#### teset
+
 client
   .getEntries({ content_type: "projects" })
   .then((response) => console.log(response.items))
